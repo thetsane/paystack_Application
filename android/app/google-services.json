@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1065779646361",
+    "project_id": "paystack-c7866",
+    "storage_bucket": "paystack-c7866.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065779646361:android:d5d88c32a5f0c2cc500d08",
+        "android_client_info": {
+          "package_name": "com.flutterflow.paystack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065779646361-pjm6q7kb5rqhol0iqhpbhikof1kdjhfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiL9uZ-UmKzAGtAQZiYzeNJNyVTvhwDho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065779646361-pjm6q7kb5rqhol0iqhpbhikof1kdjhfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
